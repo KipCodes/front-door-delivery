@@ -1,3 +1,7 @@
+A virtual business card developed using a template available on HTML5 Up; readme from the designer included below!
+
+-----------------------------------------------------------------------------------------------
+
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
